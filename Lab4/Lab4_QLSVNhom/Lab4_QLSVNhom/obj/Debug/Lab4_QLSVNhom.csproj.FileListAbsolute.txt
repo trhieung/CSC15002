@@ -1,0 +1,13 @@
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.csproj.AssemblyReference.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.Properties.Resources.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.csproj.GenerateResource.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.csproj.CoreCompileInputs.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\bin\Debug\Lab4_QLSVNhom.exe.config
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\bin\Debug\Lab4_QLSVNhom.exe
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\bin\Debug\Lab4_QLSVNhom.pdb
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.exe
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.pdb
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.form_danhsachnhanvien.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.Login.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab4\Lab4_QLSVNhom\Lab4_QLSVNhom\obj\Debug\Lab4_QLSVNhom.getKey.resources
