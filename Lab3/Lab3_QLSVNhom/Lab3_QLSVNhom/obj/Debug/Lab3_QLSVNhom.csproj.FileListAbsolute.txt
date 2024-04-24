@@ -1,0 +1,24 @@
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\bin\Debug\Lab3_QLSVNhom.exe.config
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\bin\Debug\Lab3_QLSVNhom.exe
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\bin\Debug\Lab3_QLSVNhom.pdb
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.AssemblyReference.cache
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.Form1.resources
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.Properties.Resources.resources
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.GenerateResource.cache
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.CoreCompileInputs.cache
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.exe
+C:\Users\ngtrg\OneDrive\Desktop\Mã hóa ứng  dụng\Code\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.pdb
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\bin\Debug\Lab3_QLSVNhom.exe.config
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\bin\Debug\Lab3_QLSVNhom.exe
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\bin\Debug\Lab3_QLSVNhom.pdb
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.AssemblyReference.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.Form1.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.Properties.Resources.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.GenerateResource.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.csproj.CoreCompileInputs.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.exe
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.pdb
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.student.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSVNhom\Lab3_QLSVNhom\obj\Debug\Lab3_QLSVNhom.formNhapDiem.resources

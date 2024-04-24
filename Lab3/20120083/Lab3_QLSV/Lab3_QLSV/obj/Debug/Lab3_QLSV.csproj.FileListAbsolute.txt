@@ -1,0 +1,11 @@
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.csproj.AssemblyReference.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.Form1.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.Properties.Resources.resources
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.csproj.GenerateResource.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\bin\Debug\Lab3_QLSV.exe.config
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\bin\Debug\Lab3_QLSV.exe
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\bin\Debug\Lab3_QLSV.pdb
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.exe
+C:\Users\ngtrg\OneDrive\Desktop\Bảo mật cơ sở dữ liệu\Lab3\Lab3_QLSV\Lab3_QLSV\obj\Debug\Lab3_QLSV.pdb
